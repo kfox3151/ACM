@@ -1,0 +1,7 @@
+E:\GitHub\ACM\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.dll
+E:\GitHub\ACM\ACM\ACM.BLTest\bin\Debug\ACM.BLTest.pdb
+E:\GitHub\ACM\ACM\ACM.BLTest\bin\Debug\ACM.BL.dll
+E:\GitHub\ACM\ACM\ACM.BLTest\bin\Debug\ACM.BL.pdb
+E:\GitHub\ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.csprojResolveAssemblyReference.cache
+E:\GitHub\ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.dll
+E:\GitHub\ACM\ACM\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
