@@ -8,6 +8,18 @@ namespace ACM.BL
 {
     public class Customer
     {
+        //Default Constructor
+        public Customer()
+        {
+
+        }
+
+        //CustomerId Constructor
+        public Customer(int customerId)
+        {
+            this.CustomerId = customerId;
+        }
+
         public static int InstanceCount { get; set; }
         
         private string _lastName;
@@ -49,8 +61,30 @@ namespace ACM.BL
             }
         }
 
+        /// <summary>
+        /// Retrieve one customer.
+        /// </summary>
+        /// <param name="customerId"></param>
+        /// <returns></returns>
+        public Customer Retrieve(int customerId)
+        {
+            //Code that retrieves the defined customer.
+            return new Customer();
+        }
 
+        /// <summary>
+        /// Retrieve List of customers.
+        /// </summary>
+        /// <returns></returns>
+        public List<Customer> Retrieve()
+        {
+            return new List<Customer>();
+        }
         
+        /// <summary>
+        /// Saves the current customer.
+        /// </summary>
+        /// <returns></returns>
         public bool Save()
         {
             //Code that saves the defined customer.
