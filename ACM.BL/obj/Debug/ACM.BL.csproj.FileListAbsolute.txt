@@ -2,3 +2,4 @@ E:\GitHub\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.dll
 E:\GitHub\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
 E:\GitHub\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 E:\GitHub\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+E:\GitHub\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
